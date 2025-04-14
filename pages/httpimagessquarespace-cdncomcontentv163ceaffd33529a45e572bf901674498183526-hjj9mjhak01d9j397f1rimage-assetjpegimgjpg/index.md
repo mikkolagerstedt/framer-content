@@ -1,7 +1,0 @@
----
-title: "attachment-63ced077c4c5682b8b460e1c"
-date: 2014-02-10
-slug: httpimagessquarespace-cdncomcontentv163ceaffd33529a45e572bf901674498183526-hjj9mjhak01d9j397f1rimage-assetjpegimgjpg
----
-
-img-63ced077c4c5682b8b460e1c

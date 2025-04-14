@@ -1,7 +1,0 @@
----
-title: "attachment-642aa0fb92207e5ff4e14548"
-date: 2023-04-06
-slug: httpimagessquarespace-cdncomcontentv163ceaffd33529a45e572bf900798f695-2ed7-48a8-a5b2-90724dfcba9dmikko-lagerstedt-late-night-meditation-3jpg
----
-
-img-642aa0fb92207e5ff4e14548

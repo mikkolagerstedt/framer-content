@@ -1,7 +1,0 @@
----
-title: "attachment-63d1043dbb6ed27cfd8e1643"
-date: 2021-08-22
-slug: httpimagessquarespace-cdncomcontentv163ceaffd33529a45e572bf901674642495737-bjo23vjgljt13i91qdfbjustin2bmontanino2b-2bepic-2jpg
----
-
-img-63d1043dbb6ed27cfd8e1643

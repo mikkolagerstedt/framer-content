@@ -1,7 +1,0 @@
----
-title: "attachment-63cecef42a500419e820a1f3"
-date: 2015-05-15
-slug: httpimagessquarespace-cdncomcontentv163ceaffd33529a45e572bf901674497782376-4kr89sfjogc283anuv3uimage-assetjpegimgjpg
----
-
-img-63cecef42a500419e820a1f3

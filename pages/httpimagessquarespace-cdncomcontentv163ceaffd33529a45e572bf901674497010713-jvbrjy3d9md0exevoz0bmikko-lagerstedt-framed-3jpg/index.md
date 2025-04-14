@@ -1,7 +1,0 @@
----
-title: "attachment-63cecbe8aa385229e7d7d473"
-date: 2021-10-24
-slug: httpimagessquarespace-cdncomcontentv163ceaffd33529a45e572bf901674497010713-jvbrjy3d9md0exevoz0bmikko-lagerstedt-framed-3jpg
----
-
-img-63cecbe8aa385229e7d7d473

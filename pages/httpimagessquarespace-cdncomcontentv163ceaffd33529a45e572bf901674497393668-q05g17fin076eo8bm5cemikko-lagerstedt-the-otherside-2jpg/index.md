@@ -1,7 +1,0 @@
----
-title: "attachment-63cecd694a0914685f829d21"
-date: 2018-05-06
-slug: httpimagessquarespace-cdncomcontentv163ceaffd33529a45e572bf901674497393668-q05g17fin076eo8bm5cemikko-lagerstedt-the-otherside-2jpg
----
-
-img-63cecd694a0914685f829d21
